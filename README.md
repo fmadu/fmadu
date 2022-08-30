@@ -1,23 +1,23 @@
 <h1 align="center">Welcome! I'm Maria Eduarda, my pleasure. ❤️</h1>
-<div>
+
+<div align="center">
+  <h2>My Github Status 📈</h2>
   <a href="https://github.com/fmadu">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fmadu&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmadu&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=fmadu&theme=radical&hide_border=verdadeiro"/>
 </div>
-
-##
-  <h3>Programming language 💻</h3>
-<div>
-  <img alt="Duda-HTML"  width="60" src="https://user-images.githubusercontent.com/65462741/187539143-91d5e420-5a5c-460b-8542-1b84a718d93c.png">
-  <img alt="Duda-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="Duda-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="Duda-node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img alt="Duda-CPlus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img alt="Duda-bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+    
+<div align="center">
+  <h2>Programming language 💻</h2>
+  <img height="180em" src="https://skillicons.dev/icons?i=css,html,sass,bootstrap,nodejs,js,java,c,cpp,mongodb"/>
 </div>
+  
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula
 
+  
 ##
-
+  
 <div>
   <a href="https://instagram.com/fmadu21" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:eduardafonseca.torres@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
