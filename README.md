@@ -1,24 +1,19 @@
-### Welcome! I'm Maria Eduarda, my pleasure. ❤️
-
-- 🌱 Estudando Mongo BD.
-- 😄 Pronouns: ela/dela
-
-<div align="center">
+<h1 align="center">Welcome! I'm Maria Eduarda, my pleasure. ❤️</h1>
+<div>
   <a href="https://github.com/fmadu">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fmadu&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmadu&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 ##
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Duda-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Duda-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Duda-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Duda-node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Duda-CPlus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Duda-bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-
+  <h3>Programming language 💻</h3>
+<div>
+  <img alt="Duda-HTML"  width="60" src="https://user-images.githubusercontent.com/65462741/187539143-91d5e420-5a5c-460b-8542-1b84a718d93c.png">
+  <img alt="Duda-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="Duda-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="Duda-node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img alt="Duda-CPlus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img alt="Duda-bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
 </div>
 
 ##
