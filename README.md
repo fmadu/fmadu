@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to my github profile. 📔</h1>
 <h2 align="center">Front-end Developer 🕹️</h2>
-<img src="https://s3-nftrend-storage.s3.sa-east-1.amazonaws.com/wp-content/uploads/2022/01/03122437/pixel-jeff-matrix-s.gif"/>
+<img src="https://user-images.githubusercontent.com/65462741/187570494-c5bba557-16f9-4ce7-9049-8a0c7f47e73c.png"/>
 <p align="center">
   My name is Maria Eduarda, I'm 21 years old, I'm studying the 6th period of the College of Information Systems.
   I aim to grow professionally, with the main objective of meeting pre-established goals as well as surprising with results above expectations.
