@@ -10,12 +10,9 @@
     
 <div align="center">
   <h2>Programming language 💻</h2>
-  <img height="180em" src="https://skillicons.dev/icons?i=css,html,sass,bootstrap,nodejs,js,java,c,cpp,mongodb"/>
+  <img height="80em" src="https://skillicons.dev/icons?i=css,html,sass,bootstrap,nodejs,js,java,c,cpp,mongodb"/>
 </div>
-  
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula
-
-  
+    
 ##
   
 <div>
