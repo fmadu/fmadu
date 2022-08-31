@@ -1,6 +1,11 @@
 <h1 align="center">Welcome! I'm Maria Eduarda, my pleasure.</h1>
 <h2 align="center">Front-end Developer 🕹️</h2>
 <img src="https://s3-nftrend-storage.s3.sa-east-1.amazonaws.com/wp-content/uploads/2022/01/03122437/pixel-jeff-matrix-s.gif"/>
+<p align="center">
+  My name is Maria Eduarda, I'm 21 years old, I'm studying the 6th period of the College of Information Systems.
+  I aim to grow professionally, with the main objective of meeting pre-established goals as well as surprising with results above expectations.
+  With a constant focus on training and perfecting a professional profile.
+</p>
 <div align="center">
   <h2>My Github Status 📈</h2>
   <a href="https://github.com/fmadu">
