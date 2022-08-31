@@ -1,5 +1,5 @@
 <h1 align="center">Welcome! I'm Maria Eduarda, my pleasure. ❤️</h1>
-<img src="https://user-images.githubusercontent.com/65462741/187566180-21f12b5c-2d95-4578-b184-8d76335e081a.png"/>
+<img src="https://s3-nftrend-storage.s3.sa-east-1.amazonaws.com/wp-content/uploads/2022/01/03122437/pixel-jeff-matrix-s.gif"/>
 <div align="center">
   <h2>My Github Status 📈</h2>
   <a href="https://github.com/fmadu">
