@@ -1,5 +1,5 @@
 <h1 align="center">Welcome! I'm Maria Eduarda, my pleasure. ❤️</h1>
-
+<img src="https://user-images.githubusercontent.com/65462741/187566180-21f12b5c-2d95-4578-b184-8d76335e081a.png"/>
 <div align="center">
   <h2>My Github Status 📈</h2>
   <a href="https://github.com/fmadu">
@@ -10,7 +10,7 @@
     
 <div align="center">
   <h2>Programming language 💻</h2>
-  <img height="80em" src="https://skillicons.dev/icons?i=css,html,sass,bootstrap,nodejs,js,java,c,cpp,mongodb"/>
+  <img height="60em" src="https://skillicons.dev/icons?i=css,html,sass,bootstrap,nodejs,js,java,c,cpp,mongodb"/>
 </div>
     
 ##
