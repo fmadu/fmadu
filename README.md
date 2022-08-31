@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to my github profile. 📔</h1>
 <h2 align="center">Front-end Developer 🕹️</h2>
-<img src="https://user-images.githubusercontent.com/65462741/187570494-c5bba557-16f9-4ce7-9049-8a0c7f47e73c.png"/>
+<img src="https://cdnb.artstation.com/p/assets/images/images/031/653/819/original/pixel-jeff-witch.gif"/>
 <p align="center">
   My name is Maria Eduarda, I'm 21 years old, I'm studying the 6th period of the College of Information Systems.
   I aim to grow professionally, with the main objective of meeting pre-established goals as well as surprising with results above expectations.
