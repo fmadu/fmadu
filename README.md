@@ -1,4 +1,4 @@
-<h1 align="center">Welcome! I'm Maria Eduarda, my pleasure.</h1>
+<h1 align="center">Welcome to my github profile. 📔</h1>
 <h2 align="center">Front-end Developer 🕹️</h2>
 <img src="https://s3-nftrend-storage.s3.sa-east-1.amazonaws.com/wp-content/uploads/2022/01/03122437/pixel-jeff-matrix-s.gif"/>
 <p align="center">
