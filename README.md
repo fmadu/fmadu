@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <h2>My Github Status 📈</h2>
+  <h2>My Github Status⚡</h2>
   <a href="https://github.com/fmadu">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fmadu&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmadu&layout=compact&langs_count=7&theme=radical"/>
@@ -19,7 +19,7 @@
 </div>
     
 <div align="center">
-  <h2>Programming language 💻</h2>
+  <h2>Programming language 🖥️</h2>
   <img height="60em" src="https://skillicons.dev/icons?i=css,html,sass,bootstrap,nodejs,js,java,c,cpp,mongodb"/>
 </div>
     
