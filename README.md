@@ -13,8 +13,8 @@
 <div align="center">
   <h2>My Github Status⚡</h2>
   <a href="https://github.com/fmadu">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fmadu&theme=radical&show_icons=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmadu&theme=radical&layout=compact"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fmadu&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmadu&layout=compact&langs_count=7&theme=radical"/>
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=fmadu&theme=radical&hide_border=verdadeiro"/>
 </div>
     
