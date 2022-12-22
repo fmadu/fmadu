@@ -4,7 +4,7 @@
 <img src="https://cdnb.artstation.com/p/assets/images/images/031/653/819/original/pixel-jeff-witch.gif"/>
 <div align="center">
 
-*My name is Maria Eduarda, I'm 21 years old, I'm studying the 6th period of the College of Information Systems.
+*My name is Maria Eduarda, I'm 21 years old, I'm studying the 7th period of the College of Information Systems.
   I aim to grow professionally, with the main objective of meeting pre-established goals as well as surprising with results above expectations.
   With a constant focus on training and perfecting a professional profile.*
   
